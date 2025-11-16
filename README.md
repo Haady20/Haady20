@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hady</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Embedded Systems Explorer | Electronic Music Producer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 ---
 
