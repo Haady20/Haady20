@@ -41,7 +41,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=435&lines=Building+the+future%2C+one+line+at+a+time...;Full-Stack+%7C+AI+%7C+Embedded;Crafting+code+that+breathes." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=500&lines=Building+the+future,+one+line+at+a+time...;Full-Stack+%7C+AI+%7C+Embedded;Crafting+code+that+breathes." alt="Typing SVG" />
 </div>
 
 ---
@@ -50,12 +50,12 @@
 
 <div align="center">
 
-| 🚀 **Domain**              | ✨ **Focus**                              |
-|----------------------------|-------------------------------------------|
-| Full-Stack Web & App Dev   | Seamless, scalable architectures         |
-| Aesthetic UX/UI            | Pixel-perfect, intuitive experiences     |
-| AI & Machine Learning      | Neural nets, predictive models, NLP      |
-| Embedded Systems           | Firmware, IoT, real-time systems         |
+| 🚀 **Domain**              | ✨ **Focus**                                |
+|----------------------------|---------------------------------------------|
+| Full-Stack Web & App Dev   | Scalable, maintainable architectures       |
+| Aesthetic UX/UI            | Pixel-perfect, intuitive experiences       |
+| AI & Machine Learning      | Neural networks, NLP, predictive models   |
+| Embedded Systems           | Firmware, IoT, real-time solutions        |
 
 </div>
 
@@ -67,5 +67,9 @@
 
 ### 🧬 Code Philosophy
 
+<div align="center">
+
 ```txt
-> "Code is like poetry — every line should evoke emotion, every function tell a story."
+"Code is like poetry — every line tells a story, every function evokes clarity."
+"Write for humans first, machines second."
+"Keep it clean, keep it elegant, keep it powerful."
