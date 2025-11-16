@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link.png" alt="Hady's Profile" width="200"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Hady</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
