@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png" title="LinkedIn"/></a>
-  <a href="https://www.Discord.com/"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png" title="LinkedIn"/></a>
+  <a href="https://www.Discord.com/"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png" title="Discord"/></a>
 </p>
 
 ---
