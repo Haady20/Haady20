@@ -1,26 +1,14 @@
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://user-images.githubusercontent.com/your-image-link.png" alt="Hady's Profile" width="200"/></a>
+  <img src="https://user-images.githubusercontent.com/your-image-link.png" alt="Hady's Profile" width="200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Hady</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Embedded Systems Explorer | Electronic Music Producer</h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Ideas+Into+Code;Crafting+Digital+Experiences;Exploring+AI+and+Embedded+Worlds;Making+Music+Beyond+Notes&font=Fira+Code&center=true&width=500&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png" title="LinkedIn"/></a>
-  <a href="https://www.Discord.com/"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png" title="Discord"/></a>
-</p>
-
 ---
 
 ### 🛠️ My Tools & Languages
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -33,13 +21,10 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-### 🌌 What I Explore
-- Full-Stack Web & App Development  
-- Creating visually aesthetic & functional UX/UI  
-- AI / Machine Learning Projects  
-
 ---
 
-<p align="center">
-  "Exploring the intersection of code, circuits, and sound." 🎵💻
-</p>
+### 🌌 What I Explore
+- Full-Stack Web & App Development  
+- Crafting visually aesthetic & functional UX/UI  
+- AI & Machine Learning Projects  
+- Embedded Systems Exploration
